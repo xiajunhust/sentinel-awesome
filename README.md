@@ -35,3 +35,4 @@ If you want your component to appear here, send a pull request to this repositor
 - [Sentinel学习笔记（2）-- 流量控制代码分析](https://www.jianshu.com/p/938709e94e43)  by [ro9er](https://github.com/ro9er)
 - [Sentinel学习笔记（3）-- 上下文统计Node建立分析](https://www.jianshu.com/p/cfdf525248c1)  by [ro9er](https://github.com/ro9er)
 - [大流量下的服务质量治理 Dubbo Sentinel初涉](https://mp.weixin.qq.com/s/ergr_siI07VwwSRPFgsLvQ)  by [RyuGrade](https://github.com/RyuGrade)
+- [Sentinel热点参数限流原理与实践](https://mp.weixin.qq.com/s/LW5kNPnztrUb5IwKFKhm7w) by [江南烟雨](https://github.com/xiajunhust)
